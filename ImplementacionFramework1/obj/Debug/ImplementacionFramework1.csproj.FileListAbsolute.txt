@@ -1,0 +1,411 @@
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe.config
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Form1.resources
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Properties.Resources.resources
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.GenerateResource.cache
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.exe
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ZstdSharp.dll
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.pdb
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CopyComplete
+C:\Users\camil\source\repos\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.FormRegistroUser.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe.config
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ZstdSharp.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.pdb
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Form1.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.FormRegistroUser.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Properties.Resources.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CopyComplete
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe.config
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ZstdSharp.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.pdb
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Form1.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.FormRegistroUser.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Properties.Resources.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CopyComplete
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormPrincipal.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe.config
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ZstdSharp.dll
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.pdb
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Form1.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormPrincipal.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.FormRegistroUser.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Properties.Resources.resources
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CopyComplete
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\Nueva carpeta (2)\final\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe.config
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ZstdSharp.dll
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.pdb
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Form1.resources
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormPrincipal.resources
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.FormRegistroUser.resources
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Properties.Resources.resources
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CopyComplete
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\EntregaFinal\ImplementacionFramework1\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe.config
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ZstdSharp.dll
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.pdb
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Form1.resources
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormMenu.resources
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormPrincipal.resources
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.FormRegistroUser.resources
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Properties.Resources.resources
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CopyComplete
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\loultimoenframeworks\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.pdb
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe.config
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.pdb
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\ZstdSharp.dll
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.pdb
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Google.Protobuf.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\MySql.Data.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Buffers.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Memory.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.AssemblyReference.cache
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Form1.resources
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormMenu.resources
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormPrincipal.resources
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.FormRegistroUser.resources
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Properties.Resources.resources
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.GenerateResource.cache
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CoreCompileInputs.cache
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CopyComplete
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.exe
+C:\Users\fefaa\OneDrive\Escritorio\ImplementacionFramework1\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe.config
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\Google.Protobuf.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\MySql.Data.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\ZstdSharp.dll
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\Google.Protobuf.pdb
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\Google.Protobuf.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\MySql.Data.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Form1.resources
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormMenu.resources
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormPrincipal.resources
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.FormRegistroUser.resources
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Properties.Resources.resources
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CopyComplete
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Form1.resources
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormMenu.resources
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Properties.Resources.resources
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.Views.MenuViews.FormRegistroUser.resources
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe.config
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\ImplementacionFramework1.pdb
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\Google.Protobuf.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\MySql.Data.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\ZstdSharp.dll
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\Google.Protobuf.pdb
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\Google.Protobuf.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\MySql.Data.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.csproj.CopyComplete
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.exe
+C:\Users\camil\OneDrive\Desktop\SmartStoreFramework\impl-dll\ImplementacionFramework1\obj\Debug\ImplementacionFramework1.pdb
